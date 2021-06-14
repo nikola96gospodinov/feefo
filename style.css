@@ -746,7 +746,7 @@ nav li:hover {
 }
 
 /* Phones and small tablets */
-@media (max-width: 600px) {
+@media (max-width: 599px) {
     /* Reusable classes */
     .container {
         width: calc(100vw - 50px);
